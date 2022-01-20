@@ -1,0 +1,9 @@
+http://www.responsivegridsystem.com/
+https://code.jquery.com/
+http://imakewebthings.com/waypoints/
+
+trick:
+https://css-tricks.com/snippets/html/glyphs/ 
+https://imagecompressor.com/
+https://javascript-minifier.com/
+https://realfavicongenerator.net/
